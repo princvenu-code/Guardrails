@@ -1,0 +1,10 @@
+alt-profanity-check
+openai
+guardrails-ai
+python-dotenv
+
+sentencepiece==0.1.*
+transformers==4.*
+tensorflow
+tf-keras
+torch
